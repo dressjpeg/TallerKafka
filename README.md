@@ -52,6 +52,7 @@ cd flask\_api
 
 python app.py
 
+pip install -r requirements.txts
 
 
 La API quedará disponible en:
